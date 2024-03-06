@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Galaga_USFX_L02-0007.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\Galaga_USFX_L02Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Galaga_USFX_L02.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Galaga_USFX_L02GameMode.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Galaga_USFX_L02Pawn.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Galaga_USFX_L02Projectile.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\MyRecord.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\MyWeapon.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\NaveAlienigena.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\NaveEnemiga.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\NaveJugador.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Galaga_USFX_L02.init.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Galaga_USFX_L02GameMode.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Galaga_USFX_L02Pawn.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Galaga_USFX_L02Projectile.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\MyRecord.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\MyWeapon.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\NaveAlienigena.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\NaveEnemiga.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\NaveJugador.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\Default.rc2.res"
+/OUT:"C:\Users\CAPITAL COMPUTERS\Downloads\Galaga_USFX_L02-master\Galaga_USFX_L02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L02\UE4Editor-Galaga_USFX_L02-0007.lib"
